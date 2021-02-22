@@ -4,6 +4,7 @@
 My name is Joel.
 
 I dont really know what I am, but i really like to learn all different things.
+
 At the momemt, I'm a Student in Computer Science at the BFH.
 
 **Languages and Tools:**  
