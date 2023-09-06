@@ -3,11 +3,16 @@
 <br />
 My name is Joel.
 
-I dont really know what I am, but i really like to learn all different things.
+I am a Computer Science student at [Bern University of Applied Sciences](https://bfh.ch/).
 
-At the momemt, I'm a Student in Computer Science at the BFH.
+I also work part-time in the  [Intitute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) as developer.
 
-**Languages and Tools:**  
+And finally I own my own Trading Card Game Company [JustTCG](https://justtcg.ch).
+
+Always open for a chat :)
+
+
+### Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
