@@ -5,9 +5,7 @@ My name is Joel.
 
 I am a Computer Science student at [Bern University of Applied Sciences](https://bfh.ch/).
 
-I also work part-time in the  [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) as developer.
-
-And finally I own my own Trading Card Game Company [JustTCG](https://justtcg.ch).
+And finally I own my own Trading Card Game Company [RyuLand](https://ryu.land).
 
 Always open for a chat :)
 
